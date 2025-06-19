@@ -3,3 +3,4 @@ Analyzed Cyclistic bike-share data to convert casual riders to annual members. I
 
 * **Full Case Study Report (PDF):** [View Report Here](https://github.com/srstoner21/Cyclistic-Case-Study/raw/main/Esxum.pdf)
 * **Kaggle Notebook (R Code & Detailed Analysis):** [Explore Code Here](https://www.kaggle.com/code/shaunstoner/cyclistic-bike-share-case-study)
+* **R Analysis Script:** [View R Script Here](https://github.com/srstoner21/Cyclistic-Case-Study/raw/refs/heads/main/cyclistic_data_cleaning_analysis.R)
