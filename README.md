@@ -20,6 +20,6 @@ Analysis revealed casual riders take longer weekend/leisure trips from tourist s
 
 ## Project Deliverables & Code
 
-* **Full Case Study Report (PDF):** [View Report Here](https://github.com/srstoner21/Cyclistic-Case-Study/raw/main/Esxum.pdf)
+* **Full Case Study Report (PDF):** [View Report Here](https://github.com/srstoner21/Cyclistic-Case-Study/raw/main/reoprts/Exsum.pdf)
 * **Kaggle Notebook (R Code & Detailed Analysis):** [Explore Code Here](https://www.kaggle.com/code/shaunstoner/cyclistic-bike-share-case-study)
-* **R Analysis Script:** [View R Script Here](https://github.com/srstoner21/Cyclistic-Case-Study/raw/refs/heads/main/cyclistic_data_cleaning_analysis.R)
+* **R Analysis Script:** [View R Script Here](https://github.com/srstoner21/Cyclistic-Case-Study/raw/refs/heads/main/scripts/cyclistic_data_cleaning_analysis.R)
